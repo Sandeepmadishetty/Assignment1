@@ -7,6 +7,9 @@ public class Assignment1_DataType {
 		// 1. What will be the temperature :25.5
 		float temperature = 25.5f;
 		System.out.println(temperature);
+		//2. What will be the datatype for orderplaced true/ false
+		boolean orderPlaced = true;
+		System.out.println(orderPlaced);
 
 	}
 
